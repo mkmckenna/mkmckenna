@@ -1,4 +1,10 @@
-### Hi there 👋
+## About Me
+
+Hi there 👋. I'm Martin, Full Stack and Android engineer from Scotland 🏴󠁧󠁢󠁳󠁣󠁴󠁿.
+
+I'm currently working on Rockfax Digital, a climbing guidebook app for iOS and Android.
+
+
 
 <!--
 **mkmckenna/mkmckenna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
